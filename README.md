@@ -49,6 +49,9 @@
 - libvirt
 - virtio
 
+#### 内容
+QEMU/KVM,libvirt,virtioのような仮想マシンを構成する技術やその仕組みについて、座学とハンズオンを通して学ぶ体験型インターン。
+
 ### 2023年7月 技育CAMPハッカソンvo5
 
 #### 制作物
@@ -62,6 +65,10 @@
   - FastAPI
 - Docker
 
+#### 内容
+
+AI（chat-GPT）がおすすめの行動を提案してくれるタスク管理アプリの開発。
+
 #### 役割
-Docker,Python(FastAPI)を用いてのAPサーバの構築
+バックエンド（Docker,FastAPIを用いてのAPサーバの構築）
 
